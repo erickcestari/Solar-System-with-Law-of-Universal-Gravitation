@@ -8,5 +8,5 @@
   > Right click - creates new planets at the mouse position; <br>
   > "b" - creates a black hole at the mouse position (the mass increases gradually);<br>
   > Shift - shows the position of the center of mass;**
-
+**link: https://erickcestari.github.io/Solar-System-with-Law-of-Universal-Gravitation/**
 ## Have fun 🚀🪐
