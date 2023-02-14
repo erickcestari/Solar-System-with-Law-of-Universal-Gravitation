@@ -431,6 +431,12 @@ creatingPlanets = function(){
             planet.y = mouseY
         }
     }
+    ontouchstart = (e) => {
+    	let randomNumber = Math.floor(Math.random() * nameOfPlanets.length)
+     	let planet = createPlanet(nameOfPlanets[randomNumber])
+        planet.x = mouseX;
+        planet.y = mouseY
+     };
 }
 
 setInterval(step,16)
