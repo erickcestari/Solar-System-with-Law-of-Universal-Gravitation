@@ -4,6 +4,7 @@
 #### Buttons:
 
   > **Left click - controls the position of objects; <br>
+  > Mouse Scroll - zoom in and out;<br>
   > Right click - creates new planets at the mouse position; <br>
   > "b" - creates a black hole at the mouse position (the mass increases gradually);<br>
   > Shift - shows the position of the center of mass;**
