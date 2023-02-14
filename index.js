@@ -437,7 +437,7 @@ setInterval(step,16)
 
 function step (){
     window.onkeydown = function(e){
-        if(e.key == "b"){
+        if(e.key == "b" || e.key == "B"){
             let hole = createPlanet("black")
             hole.x = mouseX;
             hole.y = mouseY;
