@@ -1,0 +1,9 @@
+body{
+    margin: 0px;
+    overflow-y:hidden;
+    overflow-x: hidden;
+}
+#myCanvas{
+    background-color: black;
+    /* background-color: skyblue; */
+}
